@@ -177,7 +177,7 @@ Un hospital registra información de sus pacientes.
 - No puede existir un expediente sin paciente.
 - No puede existir un paciente sin expediente.
 
-![Solución Ej1](../img/ER/Ejercicio1.png)
+![Solución Ej2](img/ER/Ejercicio1.png)
 
 ## Ejercicio 2.
 
@@ -210,8 +210,7 @@ Una universidad administra profesores y cursos
 - Determinar la participacion
 
 ### Solución ejercicio 2
-
-![Solución Ej2](../img/ER/Ejercicio2.png)
+![Solución Ej2](img/ER/Ejercicio2.png)
 
 ## Ejercicio 3
 
