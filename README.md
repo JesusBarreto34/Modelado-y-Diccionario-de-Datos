@@ -107,54 +107,40 @@ Tabla: Alumno
 | RN-03 | Una carrera puede tener muchas Materias |
 
 9. Diagrama Relacional
-
-### Solución ejercicio Relacional
-
-![Solución Ej1](../img/Relacional/Ejemplo.png)
-
-# Ejercicio Relacional
-
 ## Ejercicio 1
 
 ### Solución ejercicio 1 Relacional
 
-![Solución Ej1](../img/Relacional/Ejercicio1.png)
-
+<img width="338" height="149" alt="image" src="https://github.com/user-attachments/assets/37f77fe1-3338-40f4-a229-55cc2b18b3d0" />
 ## Ejercicio 2
 
 ### Solución ejercicio 2 Relacional
-
-![Solución Ej2](../img/Relacional/Ejercicio2.png)
+<img width="365" height="263" alt="image" src="https://github.com/user-attachments/assets/abc0f281-c380-48e7-a19c-35997641aa96" />
 
 ## Ejercicio 3
 
 ### Solución ejercicio 3 Relacional
-
-![Solución Ej3](../img/Relacional/Ejercicio3.png)
+<img width="350" height="223" alt="image" src="https://github.com/user-attachments/assets/b5e713de-6aec-4797-a7c1-808bce9a75ad" />
 
 ## Ejercicio 4
 
 ### Solución ejercicio 4 Relacional
 
-![Solución Ej4](../img/Relacional/Ejercicio4.png)
-
+<img width="473" height="320" alt="image" src="https://github.com/user-attachments/assets/63f73c4f-30de-44a4-a618-90c7c96082ad" />
 ## Ejercicio 5
 
 ### Solución ejercicio 5 Relacional
-
-![Solución Ej5](../img/Relacional/Ejercicio5-1.png)
+<img width="425" height="352" alt="image" src="https://github.com/user-attachments/assets/20bc5640-05ca-44d7-89fa-ef41cef1db18" />
 
 ## Ejercicio 6
 
 ### Solución ejercicio 6 Relacional
-
-![Solución Ej6](../img/Relacional/Ejercicio6.png)
+<img width="497" height="320" alt="image" src="https://github.com/user-attachments/assets/86d4023f-5d79-451e-b2d3-69055fab4a36" />
 
 ## Ejercicio 7
 
 ### Solución ejercicio 7 Relacional
-
-![Solución Ej7](../img/Relacional/Ejercicio7.png)
+<img width="328" height="340" alt="image" src="https://github.com/user-attachments/assets/eb7c3157-9805-4d3e-bc13-e3fcbaab7e08" />
 
 # Ejercicios del Modelo entidad Relacion 
 
@@ -177,7 +163,9 @@ Un hospital registra información de sus pacientes.
 - No puede existir un expediente sin paciente.
 - No puede existir un paciente sin expediente.
 
-![Solución Ej1](img/ER/Ejercicio1.png)
+<img width="398" height="139" alt="image" src="https://github.com/user-attachments/assets/affb3456-1097-4e0b-9936-c01f1118872e" />
+
+
 
 ## Ejercicio 2.
 
@@ -210,7 +198,7 @@ Una universidad administra profesores y cursos
 - Determinar la participacion
 
 ### Solución ejercicio 2
-![Solución Ej2](img/ER/Ejercicio2.png)
+<img width="373" height="168" alt="image" src="https://github.com/user-attachments/assets/1cfc4fc7-6501-4491-b42a-a960fd0776bc" />
 
 ## Ejercicio 3
 
@@ -241,7 +229,7 @@ Una escuela administra alumnos y materias
 
 Nota: La relacion se debe llamar **INSCRIBE**
 
-![Solución Ej3](../img/ER/Ejercicio3.png)
+<img width="417" height="191" alt="image" src="https://github.com/user-attachments/assets/c9dd871d-ca88-42c8-af31-6b42e453451d" />
 
 ## Ejercicio 4
 
@@ -272,7 +260,7 @@ Una empresa se dedica a la venta de productos al por mayor, y necesita registrar
 
 ### Solución ejercicio 4
 
-![Solución Ej4](../img/ER/Ejercicio4.png)
+<img width="469" height="259" alt="image" src="https://github.com/user-attachments/assets/2e2c7727-ef31-43e7-a0f0-017e82f16b56" />
 
 
 # Diccionario de datos de la base de datos control hospitalario 
@@ -372,7 +360,8 @@ Un hospital registra información de sus pacientes.
 
 ### Solución ejercicio Relacional
 
-![Solución Ej1](../../img/Relacional/Ejercicio1.png)
+<img width="352" height="149" alt="image" src="https://github.com/user-attachments/assets/b548975f-d91b-4a2a-887f-3a4193a48915" />
+
 
 # Diccionario de datos de la base de datos control escolar 
 
@@ -494,7 +483,7 @@ Una universidad administra profesores y cursos
 
 ### Solución ejercicio Relacional
 
-![Solución Ej2](../../img/Relacional/Ejercicio2.png)
+<img width="361" height="284" alt="image" src="https://github.com/user-attachments/assets/b3a77a1f-7e1b-41e1-b48d-a6b38b256a69" />
 
 
 # Diccionario de datos de la base de datos control de inscripciones 
@@ -624,9 +613,7 @@ Una escuela administra alumnos y materias
 9. Diagrama Relacional
 
 ### Solución ejercicio Relacional
-
-![Solución Ej3](../../img/Relacional/Ejercicio3.png)
-
+<img width="401" height="266" alt="image" src="https://github.com/user-attachments/assets/2444f714-3899-4a6d-a066-0436f4fb038b" />
 
 # Diccionario de datos de la base de datos control empresarial 
 
@@ -771,8 +758,7 @@ Una empresa se dedica a la venta de productos al por mayor, y necesita registrar
 
 ### Solución ejercicio Relacional
 
-![Solución Ej4](../../img/Relacional/Ejercicio4.png)
-
+<img width="432" height="302" alt="image" src="https://github.com/user-attachments/assets/83618bc0-38b5-42ce-a84b-f990b5cdea15" />
 
 # Diccionario de Datos de la Base de Datos Empresa
 
@@ -962,8 +948,7 @@ Permite controlar la estructura organizacional de la empresa y la participación
 
 ### Solución ejercicio Relacional
 
-![Solución Ej5](../../img/Relacional/Ejercicio5-1.png)
-
+<img width="414" height="337" alt="image" src="https://github.com/user-attachments/assets/87eee297-9bf1-4e8f-a6f4-fcc6592af5b2" />
 
 # Diccionario de Datos de la Base de Datos Empresa
 
@@ -1150,8 +1135,7 @@ Permite controlar la estructura organizacional y la participación de empleados 
 
 ### Solución ejercicio Relacional
 
-![Solución Ej6](../../img/Relacional/Ejercicio6.png)
-
+<img width="376" height="269" alt="image" src="https://github.com/user-attachments/assets/0c6d0c5b-0e5a-43ff-9288-cf8265d66e21" />
 
 # Diccionario de Datos de la Base de Datos Universidad
 
@@ -1404,11 +1388,9 @@ Permite controlar la información académica y administrativa de una institució
 
 ### Solución ejercicio Relacional
 
-![Solución Ej7](../../img/Relacional/Ejercicio7.png)
+<img width="352" height="330" alt="image" src="https://github.com/user-attachments/assets/4b188a65-43f3-4275-8396-a83422c41194" />
 
-
-
-# 📊 Curso de Bases de Datos: De los Fundamentos al Lenguaje SQL
+#  Curso de Bases de Datos: De los Fundamentos al Lenguaje SQL
 
 ¡Bienvenido al repositorio de la materia de Bases de Datos! Este espacio está diseñado para consolidar todos los conocimientos teóricos y prácticos adquiridos a lo largo del curso, abarcando desde la abstracción conceptual de la información hasta la manipulación e implementación de bases de datos relacionales robustas.
 
@@ -1422,9 +1404,9 @@ Permite controlar la información académica y administrativa de una institució
 
 ---
 
-## 📚 Contenido del Curso
+##  Contenido del Curso
 
-### 1. 🔍 Fundamentos de Bases de Datos
+### 1.  Fundamentos de Bases de Datos
 
 Introducción a los conceptos clave para entender cómo y por qué almacenamos datos de forma estructurada.
 
@@ -1434,7 +1416,7 @@ Introducción a los conceptos clave para entender cómo y por qué almacenamos d
 
 ---
 
-### 2. 📐 Modelado de Datos: Modelo Entidad-Relación (E-R)
+### 2.  Modelado de Datos: Modelo Entidad-Relación (E-R)
 
 La fase de diseño conceptual donde transformamos requerimientos del mundo real en diagramas estructurados.
 
@@ -1444,7 +1426,7 @@ La fase de diseño conceptual donde transformamos requerimientos del mundo real 
 
 ---
 
-### 3. 🔄 El Modelo Relacional
+### 3.  El Modelo Relacional
 
 Transición del modelo conceptual (E-R) al modelo lógico apto para sistemas modernos.
 
@@ -1455,7 +1437,7 @@ Transición del modelo conceptual (E-R) al modelo lógico apto para sistemas mod
 
 ---
 
-### 4. 🔨 Construcción con SQL-LDD (Lenguaje de Definición de Datos)
+### 4.  Construcción con SQL-LDD (Lenguaje de Definición de Datos)
 
 Implementación física de la estructura de la base de datos utilizando código SQL estándar.
 
@@ -1482,7 +1464,7 @@ CREATE TABLE inscripciones (
 
 ---
 
-### 5. ⚡ Manipulación con SQL-LMD (Lenguaje de Manipulación de Datos)
+### 5. Manipulación con SQL-LMD (Lenguaje de Manipulación de Datos)
 
 Interacción directa con los datos almacenados para consulta y modificación.
 
@@ -1503,7 +1485,7 @@ ORDER BY i.fecha_registro DESC;
 
 ---
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```
 ├── 📁 01_fundamentos/        # Apuntes teóricos
@@ -1516,7 +1498,7 @@ ORDER BY i.fecha_registro DESC;
 
 ---
 
-## 🛠️ Tecnologías Sugeridas
+##  Tecnologías Sugeridas
 
 - [Draw.io](https://app.diagrams.net/) / [Lucidchart](https://www.lucidchart.com/)
 - MySQL / PostgreSQL / SQL Server
